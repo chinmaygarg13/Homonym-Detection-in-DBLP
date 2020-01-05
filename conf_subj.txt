@@ -1,0 +1,87 @@
+3dpvt > Artificial intelligence,Computer vision,
+3dgis > Artificial intelligence,Theoretical computer science,Simulation,
+3dim > Artificial intelligence,Computer vision,
+3dim > Artificial intelligence,Computer vision,
+3dor > Artificial intelligence,Pattern recognition,Computer vision,Machine learning,
+3dph > Artificial intelligence,Computer vision,
+smile > Artificial intelligence,Computer vision,
+3dic > 
+vrml > Web,
+3dui > Simulation,Human-computer interaction,
+3dim > Artificial intelligence,Computer vision,Simulation,
+3dgis > Simulation,Artificial intelligence,Computer vision,
+vr > Human-computer,Simulation,
+3dic > 
+3dim > Artificial intelligence,Computer vision,
+3dim > Artificial intelligence,Computer vision,
+3dica > 
+3dica > 
+3dor > Artificial intelligence,Pattern recognition,Computer vision,Machine learning,Information retrieval,
+3dph > Artificial intelligence,Computer vision,
+3dpvt > Artificial intelligence,Computer vision,
+3dtv > Artificial intelligence,Computer vision,
+3dui > Artificial intelligence,Computer vision,Simulation,Human-computer interaction,
+3dim > Artificial intelligence,Computer vision,Simulation,
+uss > Computer security,Knowledge management,Web,
+3pgcic > Distributed computing,
+ai50 > Artificial intelligence,Machine learning,Pattern recognition,
+5gu > Computer network,Distributed computing,Computer hardware,
+5gwf > 
+5gu > Computer network,Distributed computing,Computer hardware,
+5gwf > 
+5gwn > Computer network,
+evolve > Artificial intelligence,Theoretical computer,
+amost > Software engineering,
+asscc > 
+sigsoft > Real-time computing,
+a2cwic > 
+a4cloud > Computer security,
+aaa-idea > Computer network,
+aaai > Artificial intelligence,Machine learning,
+aaaifs > Artificial intelligence,
+aaaiss > Artificial intelligence,
+aaate > 
+aabi > Artificial intelligence,Machine learning,
+aacc > Artificial intelligence,
+asst > Simulation,
+asst > 
+aadebug > Real-time computing,Programming language,Theoretical computer science,
+aadios > 
+aaecc > Algorithm,
+aafd > Algorithm,Artificial intelligence,Pattern recognition,Data science,
+aag > 
+aaim > 
+aaip > Machine learning,Artificial intelligence,Theoretical computer science,Natural language processing,
+aamas > Artificial intelligence,Distributed computing,Machine learning,Knowledge management,
+atal > Distributed computing,Artificial intelligence,Machine learning,Knowledge management,Simulation,Real-time computing,
+aarhus > Library science,
+ab > 
+codaspy > Database,Data mining,
+abials > Artificial intelligence,Machine learning,
+abict > Knowledge management,
+abp > Artificial intelligence,Pattern recognition,
+zum > Software engineering,
+asm > Theoretical computer,Programming language,Real-time computing,Algorithm,
+europar > Distributed computing,Theoretical computer science,Parallel computing,
+acl-alw > Artificial intelligence,Natural language processing,
+zum > Programming language,Software engineering,
+ac > 
+acom > Distributed computing,Artificial intelligence,Knowledge management,
+aca > Computer architecture,Parallel computing,Real-time computing,Distributed computing,Computer engineering,Embedded system,
+aPcsac > Computer architecture,Software engineering,
+aiworc > 
+ecoop > Software engineering,
+acai > Artificial intelligence,Machine learning,Theoretical computer science,
+acal > Artificial intelligence,
+acalci > Data science,
+acc > Computer engineering,Simulation,
+amcc > Software engineering,
+accas > 
+vldb > 
+accessnets > Telecommunications,Computer network,
+a4cloud > Computer security,
+accurate > Artificial intelligence,Theoretical computer science,Machine learning,Parallel computing,Algorithm,
+accv > Artificial intelligence,Computer vision,Pattern recognition,
+ACMace > Human-computer,
+sace > Software engineering,
+ace > 
